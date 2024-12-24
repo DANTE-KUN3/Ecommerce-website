@@ -20,6 +20,11 @@ Area.defaultProps.components = {
       id: '1f94e1f115efa75abb68f5d5ebdc127c',
       sortOrder: 30,
       component: require('C:\\Users\\parik\\Desktop\\new\\valo\\node_modules\\@evershop\\evershop\\src\\modules\\customer\\pages\\frontStore\\all\\UserIcon.jsx')
+    },
+    c65b62edf46cb9e47153284ea0f3193b: {
+      id: 'c65b62edf46cb9e47153284ea0f3193b',
+      sortOrder: 50,
+      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\themes\\eve\\pages\\all\\MobileMenu.jsx')
     }
   },
   content: {
@@ -27,6 +32,31 @@ Area.defaultProps.components = {
       id: '93eef20b77060bf9d94e428dd6abb0db',
       sortOrder: 0,
       component: require('C:\\Users\\parik\\Desktop\\new\\valo\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Breadcrumb.jsx')
+    },
+    e0304876cec1be90a97454223569685f: {
+      id: 'e0304876cec1be90a97454223569685f',
+      sortOrder: 50,
+      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\themes\\eve\\pages\\all\\Newsletter.jsx')
+    },
+    '83affa198d3c76953793e31f49eaeddd': {
+      id: '83affa198d3c76953793e31f49eaeddd',
+      sortOrder: 5,
+      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\themes\\eve\\pages\\homepage\\FeaturedCategories.jsx')
+    },
+    e7451dda9906a280a6b0417ccedff99c: {
+      id: 'e7451dda9906a280a6b0417ccedff99c',
+      sortOrder: 15,
+      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\themes\\eve\\pages\\homepage\\FeaturedProducts.jsx')
+    },
+    '2cfe86c16848828ec32699d053ea2cd3': {
+      id: '2cfe86c16848828ec32699d053ea2cd3',
+      sortOrder: 2,
+      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\themes\\eve\\pages\\homepage\\FreeShippingBar.jsx')
+    },
+    '02b6fd62fdb02df58ff74cb7e23fd917': {
+      id: '02b6fd62fdb02df58ff74cb7e23fd917',
+      sortOrder: 1,
+      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\themes\\eve\\pages\\homepage\\MainBanner.jsx')
     }
   },
   footer: {
@@ -44,10 +74,10 @@ Area.defaultProps.components = {
     }
   },
   body: {
-    c370930f1b1e574f1feca133fe39c7a2: {
-      id: 'c370930f1b1e574f1feca133fe39c7a2',
+    '8d52702e890250d626199043e665bcb3': {
+      id: '8d52702e890250d626199043e665bcb3',
       sortOrder: 1,
-      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Layout.jsx')
+      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\themes\\eve\\pages\\all\\Layout.jsx')
     },
     '907bec39c642dd741230eea7d6a57dcd': {
       id: '907bec39c642dd741230eea7d6a57dcd',
@@ -56,10 +86,15 @@ Area.defaultProps.components = {
     }
   },
   header: {
-    '80e4b6b17de186f347a59fca35076b2e': {
-      id: '80e4b6b17de186f347a59fca35076b2e',
-      sortOrder: 10,
-      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Logo.jsx')
+    f99b5bd849d6010f1473d44117a85d50: {
+      id: 'f99b5bd849d6010f1473d44117a85d50',
+      sortOrder: 5,
+      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\themes\\eve\\pages\\all\\Logo.jsx')
+    },
+    fb2e4ba2761a969954dd38fbbd48b1b3: {
+      id: 'fb2e4ba2761a969954dd38fbbd48b1b3',
+      sortOrder: 1,
+      component: require('C:\\Users\\parik\\Desktop\\new\\valo\\themes\\eve\\pages\\all\\Menu.jsx')
     }
   },
   '*': {

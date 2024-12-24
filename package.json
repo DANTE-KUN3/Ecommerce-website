@@ -17,10 +17,5 @@
   },
   "dependencies": {
     "@evershop/evershop": "^1.2.1"
-  },
-  "system": {
-    
-    "theme": "eve"
   }
-
 }
